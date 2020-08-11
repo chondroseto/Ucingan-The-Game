@@ -1,0 +1,11 @@
+girl walking sfx "la, lala la la!!"
+girl hit sfx "oh no"
+kid walking sfx "catch me if u can"
+kid hit sfx "arghh"
+dad walking sfx "aihihihi"
+dad hit sfx "it okay"
+mom walking sfx "go away kitty!"
+mom hit sfx "hmm:("
+
+win SFX
+lose SFX
